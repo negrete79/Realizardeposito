@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Sistema de Recibos Térmicos 58mm</strong><br>
-  Av. Geraldo 341 - Igarapé MG
+  Av. B 55 - Ibirité MG
 </p>
 
 ---
